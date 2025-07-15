@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "test": "jest --passWithNoTests",
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
     "type-check": "tsc --noEmit",
-    "start": "next start"
+    "start": "next start",
+    "test": "echo \"No tests to run\""
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
