@@ -243,8 +243,7 @@ For technical support or questions about this setup:
 - Create an issue in the repository
 - Check the troubleshooting section above
 - Review Supabase and Vercel documentation
----
-chore: trigger CI
+
 ---
 
 **Happy coding! 🚀**
