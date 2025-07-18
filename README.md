@@ -247,6 +247,7 @@ For technical support or questions about this setup:
 ---
 
 **Happy coding! 🚀**
-* Trigger Vercel deploy at: $(date)
+
+* Trigger Vercel preview deploy at: $(date)
 
 
